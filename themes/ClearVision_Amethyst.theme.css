@@ -22,8 +22,8 @@ RemoveShadows theme: https://git.io/v6MuU IMPORTANT: Activate on top of a ClearV
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #da27e6;
-	--hover-color: #a71eb3;
+	--main-color: #daa520;
+	--hover-color: #ffd700;
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -42,7 +42,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://github.com/Zerthox/ClearVision/raw/master/images/amethyst.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://puu.sh/sU5QS/760d6f3baa.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
